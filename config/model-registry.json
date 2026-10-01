@@ -1,0 +1,14 @@
+{
+  "id": "self-hosted-sface-v1",
+  "status": "EVALUATION_ONLY",
+  "detector": {"upstream":"opencv/opencv_zoo","file":"face_detection_yunet_2023mar.onnx","license":"MIT","revision":null,"sha256":null,"noticePath":null},
+  "recognizer": {"upstream":"opencv/opencv_zoo","file":"face_recognition_sface_2021dec.onnx","license":"Apache-2.0","revision":null,"sha256":null,"noticePath":null,"expectedDimension":128},
+  "preprocessingVersion":"opencv-align-v1",
+  "metric":"cosine",
+  "thresholdPolicyId":null,
+  "evaluationReportId":null,
+  "licenseReviewId":null,
+  "privacyApprovalId":null,
+  "approvedBy":null,
+  "approvedAt":null
+}

@@ -1,0 +1,139 @@
+{
+  "id": "retention-policy-pending-review",
+  "status": "UNAPPROVED",
+  "effectiveFrom": null,
+  "categories": {
+    "originals": {
+      "purpose": "originals",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "derivatives": {
+      "purpose": "derivatives",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "selfieCapture": {
+      "purpose": "selfieCapture",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "faceVectors": {
+      "purpose": "faceVectors",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "matchSnapshots": {
+      "purpose": "matchSnapshots",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "guestContacts": {
+      "purpose": "guestContacts",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "selections": {
+      "purpose": "selections",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "rsvp": {
+      "purpose": "rsvp",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "exports": {
+      "purpose": "exports",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "sourceCredentials": {
+      "purpose": "sourceCredentials",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "securityLogs": {
+      "purpose": "securityLogs",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "billingRecords": {
+      "purpose": "billingRecords",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    },
+    "backups": {
+      "purpose": "backups",
+      "location": null,
+      "processor": null,
+      "lawfulBasisApproval": null,
+      "operationalDays": null,
+      "legalRetentionRule": null,
+      "accessApprover": null,
+      "deletionMechanism": null
+    }
+  },
+  "backupPolicyId": null,
+  "approvedBy": null
+}
